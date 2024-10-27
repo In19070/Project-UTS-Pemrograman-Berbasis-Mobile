@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">latest K-Pop News</string>
-    <string name="news_title_blackpink">BLACKPINK Announces World Tour</string>
-    <string name="news_title_bts">BTS Releases New Album</string>
-    <string name="news_title_seventeen">SEVENTEEN Wins Best Group Award</string>
+    <string name="news_title_blackpink"><a href="https://tribune.com.pk/story/2498418/blackpink-announces-2025-world-tour-and-full-group-comeback-after-record-breaking-success#google_vignette">BLACKPINK Announces World Tour</a></string>
+    <string name="news_title_bts"><a href="https://www.detik.com/pop/korean-wave/d-7606160/jin-bts-buka-perilisan-album-happy-dengan-single-ill-be-there">BTS Releases New Album</a></string>
+    <string name="news_title_seventeen"><a href="https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen">SEVENTEEN Wins Best Group Award</a></string>
 
     <string name="group_name_blackpink">BLACKPINK</string>
     <string name="group_name_exo">EXO</string>
