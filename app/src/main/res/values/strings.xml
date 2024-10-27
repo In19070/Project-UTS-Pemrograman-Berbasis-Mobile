@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">latest K-Pop News</string>
+    <string name="news_title_blackpink">BLACKPINK Announces World Tour</string>
+    <string name="news_title_bts">BTS Releases New Album</string>
+    <string name="news_title_seventeen">SEVENTEEN Wins Best Group Award</string>
+
+    <string name="group_name_blackpink">BLACKPINK</string>
+    <string name="group_name_exo">EXO</string>
+    <string name="group_name_twice">TWICE</string>
+</resources>
